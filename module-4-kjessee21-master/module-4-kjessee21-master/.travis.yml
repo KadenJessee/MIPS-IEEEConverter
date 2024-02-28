@@ -1,0 +1,4 @@
+language: java
+
+script:
+  - bin/test.sh test-activity
